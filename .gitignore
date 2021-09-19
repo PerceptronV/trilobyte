@@ -1,3 +1,7 @@
 .idea/
 
 trilobyte/tests
+
+# Build
+dist
+trilobyte.egg-info
