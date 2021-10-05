@@ -1,6 +1,8 @@
 # Trilobyte
 _Powerful text pattern parsing made intuitive_
 
+`pip install trilobyte`
+
 Key features:
 * Variable assignment
 * Smart algorithm
