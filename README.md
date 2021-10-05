@@ -1,7 +1,7 @@
 # Trilobyte
 _Powerful text pattern parsing made intuitive_
 
-`pip install trilobyte`
+[`pip install trilobyte`](https://pypi.org/project/trilobyte/)
 
 Key features:
 * Variable assignment
